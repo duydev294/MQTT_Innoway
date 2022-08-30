@@ -51,7 +51,7 @@
         "name": "to device",
         "debugMode": true,
         "configuration": {
-          "topicPattern": "messages/${deviceID}/control",
+          "topicPattern": "messages/${deviceID}/status",
           "retain": false
         }
       },
